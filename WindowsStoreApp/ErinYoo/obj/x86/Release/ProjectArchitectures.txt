@@ -1,0 +1,4 @@
+C:\Users\rajen\Src\ErinYoo\ErinYoo\WindowsStoreApp\ErinYoo\ErinYoo.csproj;x86
+C:\Users\rajen\Src\ErinYoo\ErinYoo\WindowsStoreApp\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+C:\Users\rajen\Src\ErinYoo\ErinYoo\WindowsStoreApp\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
+C:\Users\rajen\Src\ErinYoo\ErinYoo\WindowsStoreApp\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
